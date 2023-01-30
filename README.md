@@ -1,7 +1,7 @@
 ### Hi there, I am Priyal Porwal 🙋🏻‍♀️
 
-- 👩🏻‍💻 I’m currently working as Senion Software Engineer at Paytm Money ...
-- 🎯 I’m currently experimenting with SwiftUI, Combine, RxSwift ...
+- 👩🏻‍💻 I’m currently working as Senior Software Engineer at Paytm Money
+- 🎯 I’m currently experimenting with SwiftUI, Combine, RxSwift
 - 🙌🏼 You can connect with me on LinkedIn, Twiiter, Mastodon
 
 <!--
