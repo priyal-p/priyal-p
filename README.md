@@ -1,6 +1,6 @@
 ### Hi there, I am Priyal Porwal 🙋🏻‍♀️
 
-- 👩🏻‍💻 I’m currently working as Senior Software Engineer at Paytm Money
+- 👩🏻‍💻 I’m currently working as iOS Developer at PayPal
 - 🎯 I’m experimenting with SwiftUI, Combine, RxSwift
 - 🙌🏼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/priyal-porwal/), [Twitter](https://twitter.com/priyal_porwal_), Mastodon
 - 📝 [Bento](https://bento.me/priyal-porwal)
